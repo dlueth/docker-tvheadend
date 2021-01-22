@@ -44,3 +44,6 @@ Temporary Items
 
 # Picons file
 picons.tar.bz2
+
+# Jetbrains IDEs
+.idea
